@@ -59,5 +59,5 @@ string fromAsciiCesar(string encryptedText)
 //zdefiniuj string do zaszyfrowania
 string clearText = "Ala ma kota, a kot ma Ale, a sierotka ma rysia";
 
-Console.WriteLine("Odszyfrowany tekst: " + fromAsciiCesar(clearText));
-Console.WriteLine("Zaszyfrowany tekst: " + toAsciiCesar(clearText));
+Console.WriteLine("odszyfrowany tekst: " + fromAsciiCesar(clearText));
+Console.WriteLine("zaszyfrowany tekst: " + toAsciiCesar(clearText));

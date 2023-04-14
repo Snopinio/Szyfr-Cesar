@@ -61,3 +61,4 @@ string clearText = "Ala ma kota, a kot ma Ale, a sierotka ma rysia";
 
 Console.WriteLine("odszyfrowany tekst: " + fromAsciiCesar(clearText));
 Console.WriteLine("zaszyfrowany tekst: " + toAsciiCesar(clearText));
+//koniec szyfru
